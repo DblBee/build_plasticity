@@ -1,4 +1,3 @@
-...existing code...
 # Plasticity AppImage builder
 
 This repository contains a small helper to build a self-contained AppImage of the Plasticity binary.
