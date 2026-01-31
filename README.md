@@ -2,10 +2,6 @@
 
 This repository contains a small helper to build a self-contained AppImage of the Plasticity binary.
 
-- Script: [`build_plasticity.sh`](build_plasticity.sh)
-- Make target: [`makefile`](makefile)
-- Ignore rule: [`.gitignore`](.gitignore)
-
 ## What it does
 Downloads a Plasticity .deb, extracts the runtime files, collects dependent shared libraries, assembles an AppDir, and uses appimagetool to produce a distributable `.AppImage`.
 
